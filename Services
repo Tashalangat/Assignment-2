@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+    <BODY background="blue"Text = "Navy"></BODY>
+    <section id="Services">
+        <h2> Services:</h2>
+        <p>Wedding cakes </p>
+        <p>Birthday cakes </p>
+        <p>Graduation cakes </p>
+        <p>Bridalshower cakes </p>
+        <p>Valentine cakes </p>
+        <a href="services.html" class="cta-button">Book Now</a>
+       
+    </section>

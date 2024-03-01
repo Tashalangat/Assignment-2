@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en".></html>
+    <BODY background="blue"Text = "Navy"></BODY>
+    <section id="contact">
+        <h2> contact:</h2>
+        <p>contact us through 076543218</p>
+        <p> contact us through tashabaker@gmail.com</p>
+     <a href="contact.html" class="cta-button">Book Now</a>
+       
+    </section>

@@ -1,0 +1,13 @@
+<!DOCTYPE  html>
+<html lang="en">
+    <BODY background="blue"Text = "Navy"></BODY>
+    <section id="About">
+        <h2> About:</h2>
+        <p>The owner is Tasha </p>
+        <p> Located in cbd Nairobi</p>
+        <p>Opened daily from mon to sat from 6am to 7pm</p>
+        <p> Worldwide deliveries done countrywide</p>
+        <p>Payment method cash or mobile transfer </p>
+        <a href="About.html" class="cta-button">Book Now</a>
+       
+    </section>
